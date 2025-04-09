@@ -1,0 +1,9 @@
+pandas
+openpyxl  # Needed by pandas to read Excel files
+nltk
+torch
+transformers
+scipy
+tqdm
+matplotlib
+seaborn
